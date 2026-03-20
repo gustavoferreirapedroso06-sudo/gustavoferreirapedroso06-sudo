@@ -10,7 +10,7 @@ Pontos fortes
 
 Objetivos imediatos
 - Aprender lógica de programação e estruturas básicas (variáveis, condicionais, laços, funções)
-- Escolher uma primeira linguagem para focar (recomendo: C# para Unity, GDScript para Godot, Python ou JavaScript)
+- Escolher uma primeira linguagem para focar ( C# para Unity, GDScript para Godot, Python ou JavaScript)
 - Desenvolver projetos simples: um jogo pequeno, uma calculadora, um gerenciador de tarefas
 - Criar e manter um repositório no GitHub com meus projetos
 
