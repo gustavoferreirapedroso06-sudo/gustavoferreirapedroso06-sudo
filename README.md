@@ -1,21 +1,35 @@
 Perfil — Gustavo Ferreira
 
-Sou Gustavo Ferreira, tenho 16 anos. Desde os 12 anos sonho em criar jogos e desenvolver sistemas.
-básicos de programação e tecnologia, mas estou 100% disposto a aprender cada vez mais para transformar essa paixão em profissão.
+Olá, sou o Gustavo 👋
 
-Pontos fortes
-- Alta motivação e compromisso com o aprendizado contínuo
-- Curiosidade técnica e vontade de experimentar novas ferramentas
-- Persistência para resolver problemas e completar projetos
+Tenho 17 anos e estou aprendendo programação com foco em Python, lógica de programação e boas práticas de desenvolvimento de sistemas. Estou cursando Técnico em Desenvolvimento de Sistemas e construindo meu portfólio com projetos reais.
 
-Objetivos imediatos
-- Aprender lógica de programação e estruturas básicas (variáveis, condicionais, laços, funções)
-- Escolher uma primeira linguagem para focar ( C# para Unity, GDScript para Godot, Python ou JavaScript)
-- Desenvolver projetos simples: um jogo pequeno, uma calculadora, um gerenciador de tarefas
-- Criar e manter um repositório no GitHub com meus projetos
 
-Plano de ação
-- Fazer cursos introdutórios e tutoriais (YouTube, freeCodeCamp, Coursera)
-- Seguir tutoriais de motores de jogo (Unity, Godot) e refazer projetos para aprender
-- Participar de comunidades (Discord, fóruns) para trocar experiências e tirar dúvidas
-- Praticar regularmente e documentar cada projeto para construir um portfólio
+🛠️ Tecnologias e ferramentas
+
+
+Python
+C++
+Lógica de programação (variáveis, condicionais, laços, funções)
+Git e GitHub
+Padrão MVC
+
+
+📚 Em aprendizado
+
+Programação Orientada a Objetos
+Banco de dados (SQL)
+Boas práticas de organização de código
+
+
+🎯 Objetivos
+
+Aprofundar meus conhecimentos em Python e lógica de programação
+Evoluir o SmartFinance AI como projeto principal do portfólio
+Aplicar boas práticas de versionamento e documentação em todos os projetos
+Aprender e aplicar conceitos de arquitetura de software (MVC, POO, integrações com IA)
+
+
+
+
+Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução como desenvolvedor!
