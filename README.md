@@ -2,7 +2,7 @@ Perfil — Gustavo Ferreira
 
 Olá, sou o Gustavo 👋
 
-Tenho 17 anos e estou aprendendo programação com foco em Python, lógica de programação e boas práticas de desenvolvimento de sistemas. Estou cursando Técnico em Desenvolvimento de Sistemas e construindo meu portfólio com projetos reais.
+Tenho 17 anos e estou aprendendo programação com foco em Python e C++, lógica de programação e boas práticas de desenvolvimento de sistemas. Estou cursando Técnico em Desenvolvimento de Sistemas e construindo meu portfólio com projetos reais.
 
 
 🛠️ Tecnologias e ferramentas
