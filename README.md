@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Gustavo Ferreira
 
 🎓 Estudante de **Técnico em Desenvolvimento de Sistemas**  
-💻 Desenvolvedor em formação, focado em criar projetos reais e evoluir minhas habilidades.
+💻 sou iniciante mas estou em formação, focado em criar projetos reais e evoluir minhas habilidades.
 
 Tenho 17 anos e atualmente estudo programação com foco em **Python**, **C++**, lógica de programação e boas práticas de desenvolvimento de sistemas.
 
