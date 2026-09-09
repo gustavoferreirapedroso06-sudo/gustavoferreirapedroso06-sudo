@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Gustavo Ferreira
+# 👋 Olá, eu sou o Gustavo 
 
 🎓 Estudante de **Técnico em Desenvolvimento de Sistemas**  
 💻 sou iniciante mas estou em formação, focado em criar projetos reais e evoluir minhas habilidades.
